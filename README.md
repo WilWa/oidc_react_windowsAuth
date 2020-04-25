@@ -7,7 +7,7 @@
 - Visual Studio 2019
 - .\backend\IdentityServerExample.sln
 - Setup multiple startup projects for solution
-  ![Example of setting up multiple projects](.\readme\multipleStartupProjects.png 'Example of setting up multiple projects')
+  ![Example of setting up multiple projects](https://github.com/WilWa/oidc_react_windowsAuth/blob/master/readme/multipleStartupProjects.png)
 
 ### Running
 
