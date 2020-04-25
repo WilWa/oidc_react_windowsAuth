@@ -1,7 +1,0 @@
-TODO:
-
-if logged out, secure still loads (the authdata is still in memory)
-
-still need to direct to user.state (instead of always /secure)
-
-logout?
